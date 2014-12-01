@@ -8,7 +8,7 @@ namespace GitTest
 {
     static class Program
     {
-        ///Heres some comments heres some more
+        ///Heres some comments heres some more lksjdflsdkj
 
         /// <summary>
         /// The main entry point for the application.
